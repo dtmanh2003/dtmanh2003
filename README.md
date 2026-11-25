@@ -18,8 +18,8 @@ IT student in Tokyo who likes building things end to end: from hardware and AI t
 
 ## Skills
 
-Python · Kotlin · C# · Swift · C/C++ · JavaScript
-FastAPI · Flask · PyQt5 · Unity · Android · SwiftUI · Arduino · Raspberry Pi · Docker · Git
+**Languages:** Python · Kotlin · C# · Swift · C/C++ · JavaScript  
+**Frameworks & tools:** FastAPI · Flask · PyQt5 · Unity · Android · SwiftUI · Arduino · Raspberry Pi · Docker · Git
 
 ## Languages
 
@@ -45,8 +45,8 @@ Vietnamese (native) · Japanese · English
 
 ### スキル
 
-Python · Kotlin · C# · Swift · C/C++ · JavaScript
-FastAPI · Flask · PyQt5 · Unity · Android · SwiftUI · Arduino · Raspberry Pi · Docker · Git
+**言語:** Python · Kotlin · C# · Swift · C/C++ · JavaScript  
+**フレームワーク・ツール:** FastAPI · Flask · PyQt5 · Unity · Android · SwiftUI · Arduino · Raspberry Pi · Docker · Git
 
 ### 言語
 
