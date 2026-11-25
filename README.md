@@ -2,7 +2,7 @@
 
 **English** · [日本語](#日本語)
 
-Student developer based in Tokyo. I mostly work in Python, and also build Android, iOS and Unity apps.
+Student developer in Tokyo. I love creating new things, and I enjoy every part of the work that goes into them.
 
 ## Projects
 
@@ -29,7 +29,7 @@ Vietnamese (native) · Japanese · English
 
 ## 日本語
 
-東京在住の学生エンジニアです。主にPythonで開発しており、Android・iOS・Unityのアプリも作っています。
+東京在住の学生エンジニアです。新しいものを生み出すことが好きで、そのための作業ひとつひとつも楽しんでいます。
 
 ### プロジェクト
 
