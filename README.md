@@ -2,7 +2,7 @@
 
 **English** · [日本語](#日本語)
 
-IT student in Tokyo who likes building things end to end: from hardware and AI to desktop, mobile and game apps.
+Student developer based in Tokyo. I mostly work in Python, and also build Android, iOS and Unity apps.
 
 ## Projects
 
@@ -29,7 +29,7 @@ Vietnamese (native) · Japanese · English
 
 ## 日本語
 
-東京でITを学んでいる学生です。ハードウェアやAIから、デスクトップ・モバイル・ゲームアプリまで、最初から最後まで自分で作ることが好きです。
+東京在住の学生エンジニアです。主にPythonで開発しており、Android・iOS・Unityのアプリも作っています。
 
 ### プロジェクト
 
